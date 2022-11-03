@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+  span{
+  color: goldenrod;
+}
+.registration-form{
+	width: 800px;
+  margin: 10px auto;
+ /* background: lightgray;*/
+ background: linear-gradient(to top, goldenrod, whitesmoke);
+  border: 5px solid black;
+  padding: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.btn{
+    border-radius: 20px;
+}
+.btn:hover{
+  background: rgb(247, 223, 164);
+  color: black;
+}
+/*.gender{
+  display: flex;
+  align-items: center;
+  text-align: center;
+}*/
